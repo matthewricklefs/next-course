@@ -1,4 +1,5 @@
-.title a .title span {
+.title a,
+.title span {
   color: #0070f3;
   text-decoration: none;
 }
